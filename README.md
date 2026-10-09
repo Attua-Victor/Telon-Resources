@@ -33,6 +33,13 @@ Arraste vídeos (MP4, MOV, WEBM) e fotos (JPG, PNG, WEBP) para a coluna **Roteir
 
 ## Novidades
 
+### 0.5.0 — 09/10/2026
+
+- **Imagem de fundo na tela de descanso:** escolha uma imagem que cobre a tela inteira. A logo agora é opcional.
+- **Música na tela de descanso:** toca em repetição enquanto o telão está no descanso, com volume próprio. Sai com fade quando entra um vídeo ou foto, volta de onde parou no descanso e fica em silêncio enquanto uma música do roteiro toca.
+- **Fade ao repetir vídeo:** vídeos em "Repetir" escurecem e baixam o som no fim e voltam ao início suavemente, sem corte seco.
+- A prévia da tela de descanso nas Configurações fica fixa no topo enquanto você rola os ajustes.
+
 ### 0.4.1 — 09/10/2026
 
 - Corrigido: músicas novas no roteiro ignoravam o padrão e entravam sempre como "Parar no fim".
