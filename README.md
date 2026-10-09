@@ -33,6 +33,11 @@ Arraste vídeos (MP4, MOV, WEBM) e fotos (JPG, PNG, WEBP) para a coluna **Roteir
 
 ## Novidades
 
+### 0.4.1 — 09/10/2026
+
+- Corrigido: músicas novas no roteiro ignoravam o padrão e entravam sempre como "Parar no fim".
+- Novo padrão **Músicas ao terminar** em Configurações → Roteiro (Próxima música, Repetir ou Parar no fim), separado do padrão de vídeos e fotos.
+
 ### 0.4.0 — 09/10/2026
 
 - **Músicas no roteiro:** adicione MP3, WAV, M4A, OGG ou FLAC e elas tocam **por cima** do que estiver no telão (vídeo, foto ou tela de descanso), numa trilha de áudio própria.
