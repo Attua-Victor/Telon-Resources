@@ -33,6 +33,15 @@ Arraste vídeos (MP4, MOV, WEBM) e fotos (JPG, PNG, WEBP) para a coluna **Roteir
 
 ## Novidades
 
+### 0.4.0 — 09/10/2026
+
+- **Músicas no roteiro:** adicione MP3, WAV, M4A, OGG ou FLAC e elas tocam **por cima** do que estiver no telão (vídeo, foto ou tela de descanso), numa trilha de áudio própria.
+- **Barra de música:** mostra a música tocando, o tempo e tem pausar, parar (com saída suave) e volume. Atalho **M** para parar a música.
+- **Som do vídeo:** cada vídeo pode ficar com o som ligado ou mudo, para não brigar com a música.
+- Ao terminar uma música: parar, repetir ou tocar a próxima música do roteiro. No avanço automático, as músicas entram junto com os vídeos e fotos.
+- Seletor de telão redesenhado, com ícones e resolução de cada monitor.
+- Corrigido o modal de Configurações que descia um pouco ao abrir a aba de Atualizações.
+
 ### 0.3.0 — 09/10/2026
 
 - **Salvamento automático:** roteiro, item selecionado, transição e configurações são salvos a cada mudança, de um jeito que resiste a queda de energia. Se o Telon fechar sem querer com uma mídia no telão, ao reabrir ele oferece **retomar do ponto em que parou**.
