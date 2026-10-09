@@ -33,6 +33,12 @@ Arraste vídeos (MP4, MOV, WEBM) e fotos (JPG, PNG, WEBP) para a coluna **Roteir
 
 ## Novidades
 
+### 0.6.0 — 09/10/2026
+
+- **Roteiro por categorias:** a lista agora é separada em **Vídeos**, **Fotos** e **Músicas**, cada seção com contador e opção de recolher. "Próximo" e "Anterior" passam pelos vídeos e depois pelas fotos; as músicas são uma playlist à parte, que toca por cima da tela.
+- **Cópia de segurança das mídias:** ao adicionar um arquivo, o Telon guarda uma cópia em uma pasta própria e exibe a partir dela. Se o pen drive ou HD externo desconectar, o vídeo continua. Cópias sem uso são apagadas sozinhas.
+- **Confirmação ao fechar:** se houver algo no telão ou uma música tocando, o Telon pergunta antes de fechar ("Continuar exibindo" é o padrão).
+
 ### 0.5.0 — 09/10/2026
 
 - **Imagem de fundo na tela de descanso:** escolha uma imagem que cobre a tela inteira. A logo agora é opcional.
