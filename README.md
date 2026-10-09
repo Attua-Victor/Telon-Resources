@@ -33,6 +33,16 @@ Arraste vídeos (MP4, MOV, WEBM) e fotos (JPG, PNG, WEBP) para a coluna **Roteir
 
 ## Novidades
 
+### 0.3.0 — 09/10/2026
+
+- **Salvamento automático:** roteiro, item selecionado, transição e configurações são salvos a cada mudança, de um jeito que resiste a queda de energia. Se o Telon fechar sem querer com uma mídia no telão, ao reabrir ele oferece **retomar do ponto em que parou**.
+- **Abre com o Windows:** o Telon abre sozinho quando o computador liga (dá para desligar em Configurações → Sistema).
+- **Prévia ao vivo do telão:** a prévia agora espelha exatamente o que o público está vendo, inclusive tela de descanso, tela preta e transições. O item selecionado aparece num cartão no canto até ir para o ar.
+- **Configurações em abas:** Tela de descanso, Roteiro, Sistema e Atualizações.
+- **Aba de Atualizações:** botão para buscar atualizações na hora e histórico das versões com as novidades de cada uma.
+- **Cor do brilho** da tela de descanso personalizável.
+- Campos de número, seleção e controle deslizante redesenhados.
+
 ### 0.2.0 — 09/10/2026
 
 - Novo botão de **Configurações** (engrenagem no canto superior direito).
