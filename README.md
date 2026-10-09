@@ -33,6 +33,13 @@ Arraste vídeos (MP4, MOV, WEBM) e fotos (JPG, PNG, WEBP) para a coluna **Roteir
 
 ## Novidades
 
+### 0.2.0 — 09/10/2026
+
+- Novo botão de **Configurações** (engrenagem no canto superior direito).
+- Tela de descanso personalizável: cor de fundo, logo própria, tamanho da logo e brilho animado, com prévia ao vivo e aplicação imediata no telão.
+- Padrões para novos itens do roteiro: tempo das fotos na tela e o que fazer ao terminar.
+- A versão instalada agora aparece em Configurações → Sobre.
+
 ### 0.1.0 — 09/10/2026
 
 Primeira versão do Telon.
