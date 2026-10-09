@@ -31,6 +31,22 @@ O Telon verifica novas versões sozinho a cada hora e baixa em segundo plano. A 
 
 Arraste vídeos (MP4, MOV, WEBM) e fotos (JPG, PNG, WEBP) para a coluna **Roteiro**.
 
+## Novidades
+
+### 0.1.0 — 09/10/2026
+
+Primeira versão do Telon.
+
+- Janela do operador e saída automática em tela cheia no segundo monitor (ou janela de teste, se não houver).
+- Roteiro de vídeos e fotos: arrastar e soltar arquivos, reordenar e botão de excluir em cada item.
+- Transição suave (crossfade) entre itens, com entrada e saída gradual do áudio.
+- Fotos em pé com fundo desfocado; tempo de exibição ajustável.
+- Ao terminar um item: avançar, repetir ou parar.
+- Tela de descanso, tela preta e pausa.
+- Atalhos de teclado para operar sem mouse.
+- Aviso quando um arquivo não existe ou o formato não é suportado.
+- Atualização automática: baixa em segundo plano e instala ao fechar o Telon.
+
 ---
 
 Este repositório contém apenas os instaladores do Telon. © Attua
