@@ -33,6 +33,11 @@ Arraste vídeos (MP4, MOV, WEBM) e fotos (JPG, PNG, WEBP) para a coluna **Roteir
 
 ## Novidades
 
+### 0.6.1 — 18/11/2026
+
+- Corrigido: com o crossfade em **0 s**, a troca no telão agora é corte seco de verdade (antes ainda dava para notar uma transição).
+- Vídeos em "Repetir" com crossfade zerado também voltam ao início sem fade.
+
 ### 0.6.0 — 09/10/2026
 
 - **Roteiro por categorias:** a lista agora é separada em **Vídeos**, **Fotos** e **Músicas**, cada seção com contador e opção de recolher. "Próximo" e "Anterior" passam pelos vídeos e depois pelas fotos; as músicas são uma playlist à parte, que toca por cima da tela.
