@@ -33,6 +33,10 @@ Arraste vídeos (MP4, MOV, WEBM) e fotos (JPG, PNG, WEBP) para a coluna **Roteir
 
 ## Novidades
 
+### 0.6.3 — 23/11/2026
+
+- Aceita vídeos **MPEG** (`.mpeg` e `.mpg`) no roteiro e no seletor de arquivos.
+
 ### 0.6.2 — 23/11/2026
 
 - Corrigido: ao remover do roteiro a música que estava tocando, ela agora para de verdade (antes continuava no telão e não dava mais para parar pela barra).
