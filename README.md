@@ -33,6 +33,11 @@ Arraste vídeos (MP4, MOV, WEBM) e fotos (JPG, PNG, WEBP) para a coluna **Roteir
 
 ## Novidades
 
+### 0.6.2 — 23/11/2026
+
+- Corrigido: ao remover do roteiro a música que estava tocando, ela agora para de verdade (antes continuava no telão e não dava mais para parar pela barra).
+- Se o vídeo ou a foto no ar for removido, o telão volta para a tela de descanso.
+
 ### 0.6.1 — 18/11/2026
 
 - Corrigido: com o crossfade em **0 s**, a troca no telão agora é corte seco de verdade (antes ainda dava para notar uma transição).
